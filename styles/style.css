@@ -1,5 +1,5 @@
 body {
-	background-image: url('/home/djole/Desktop/Programming/the_odin_project/Rock,Paper,Scissors/images/back.jpg');
+	background-image: url('https://github.com/djokole/RPS/blob/master/images/back.jpg');
 }
 
 h1 {
@@ -147,21 +147,21 @@ h3 {
 #rock {
 	width: 82px;
 	height: 104px;
-	background-image: url('/home/djole/Desktop/Programming/the_odin_project/Rock,Paper,Scissors/images/Rock.jpg');
+	background-image: url('https://github.com/djokole/RPS/blob/master/images/Rock.jpg');
 	background-size: 76px 96px;
 }
 
 #paper {
 	width: 82px;
 	height: 104px;
-	background-image: url('/home/djole/Desktop/Programming/the_odin_project/Rock,Paper,Scissors/images/Paper.jpg');
+	background-image: url('https://github.com/djokole/RPS/blob/master/images/Paper.jpg');
 	background-size: 78px 96px;
 }
 
 #scissors {
 	width: 82px;
 	height: 104px;
-	background-image: url('/home/djole/Desktop/Programming/the_odin_project/Rock,Paper,Scissors/images/Scissors.jpg');
+	background-image: url('https://github.com/djokole/RPS/blob/master/images/Scissors.jpg');
 	background-size: 80px 100px;
 }
 
