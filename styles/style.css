@@ -1,5 +1,5 @@
 body {
-	background-image: url('images/back.jpg');
+	background-image: url(images/back.jpg);
 }
 
 h1 {
@@ -147,21 +147,21 @@ h3 {
 #rock {
 	width: 82px;
 	height: 104px;
-	background-image: url('images/Rock.jpg');
+	background-image: url(images/Rock.jpg);
 	background-size: 76px 96px;
 }
 
 #paper {
 	width: 82px;
 	height: 104px;
-	background-image: url('images/Paper.png');
+	background-image: url(images/Paper.jpg);
 	background-size: 78px 96px;
 }
 
 #scissors {
 	width: 82px;
 	height: 104px;
-	background-image: url('images/Scissors.jpg');
+	background-image: url(images/Scissors.jpg);
 	background-size: 80px 100px;
 }
 
